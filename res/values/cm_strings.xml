@@ -1001,5 +1001,52 @@ two in order to insert additional control points. \'Remove\' deletes the selecte
     <string name="privacy_guard_help_text">In this screen you can choose for which apps Privacy Guard should be active by simply tapping on them. Selected apps will not be able to access your personal data, such as contacts, messages or call logs. Long pressing on an entry opens the app details screen for that app.\n\nBy default built-in apps are not shown. If you want to show them or filter apps to show only the ones requesting access to personal data by their permissions, select the respective options in the menu.</string>
     <string name="privacy_guard_manager_show_system_apps">Show built-in apps</string>
     <string name="privacy_guard_manager_filter_permissions">Permission filter</string>
+    
+        <!-- Hybrid -->
+    <string name="hybrid_settings_title">Hybrid settings</string>
+
+    <string name="uimode_title">UIMode</string>
+    <string name="uimode_phone">Phone</string>
+    <string name="uimode_phablet">Phablet</string>
+    <string name="uimode_tablet">Tablet</string>
+
+    <string name="dpi_settings_title">System density</string>
+    <string name="system_dpi_title">System density</string>
+    <string name="system_dpi_summary">Current system density:</string>
+    <string name="system_dpi_standar_title">Standard density</string>
+    <string name="system_dpi_standar_summary">Select the density from a list</string>
+    <string name="system_dpi_custom_title">Specify custom density</string>
+    <string name="system_dpi_custom_hint">120 to 480</string>
+    <string name="system_dpi_custom_summary">Select a custom density from 120 to 480</string>
+
+    <string name="dpi_groups_title">DPI Groups</string>
+    <string name="dpi_groups_summary">Define wich apps should be in each DPI group</string>
+    <string name="dpi_group_title">DPI Group</string>
+    <string name="dpi_groups_apps">applications</string>
+    <string name="dpi_group_add_app">Add application</string>
+    <string name="dpi_group_app_list">Applications list</string>
+    <string name="dpi_group_alert_add_app_title">Choose an application</string>
+    <string name="dpi_groups_alert_remove_app">Remove application</string>
+    <string name="dpi_groups_remove_app">Remove %s application from group?</string>
+    <string name="dpi_groups_backuprestore_title">Backup and restore</string>
+    <string name="dpi_groups_auto_backup">Auto backup</string>
+    <string name="dpi_groups_auto_backup_summary">Perform an auto backup everytime you change the configuration</string>
+    <string name="dpi_groups_backup_title">Backup</string>
+    <string name="dpi_groups_backup_summary">Backup your groups configuration</string>
+    <string name="dpi_groups_restore_title">Restore</string>
+    <string name="dpi_groups_restore_summary">Restore your groups configuration</string>
+    <string name="dpi_groups_backup_done">Backup of configuration file done</string>
+    <string name="dpi_groups_restore_done">Configuration file restored</string>
+    <string name="dpi_groups_restore_default_title">Restore default groups</string>
+    <string name="dpi_groups_restore_default_summary">Remove custom DPI groups and leave the default groups</string>
+    <string name="dpi_groups_delete_title">Delete DPI group</string>
+    <string name="dpi_groups_delete_summary">Do you want to delete this DPI group?</string>
+    <string name="customdpigroup">Add group</string>
+    <string name="customdpigroup_summary">Add a custom dpi group</string>
+    <string name="custom_dpi">Current dpi:</string>
+    <string name="customdpigroup_group_exists">The selected custom dpi group already exists.</string>
+
+    <string name="alert_reboot">Reboot needed</string>
+    <string name="alert_reboot_message">This change needs a reboot to be applied. Do you want to reboot now?</string>
 
 </resources>
