@@ -566,7 +566,7 @@
     <string name="title_dynamic_wifi">Wi-Fi display</string>
     <string name="title_general">Général</string>
     <string name="title_quick_pulldown">Ouverture rapide</string>
-    <string name="summary_quick_pulldown">Tirer le coté %1$s pour ouvrir le panneau des raccrourcis</string>
+    <string name="summary_quick_pulldown">Tirer le coté %1$s pour ouvrir le panneau des raccourcis</string>
     <string name="quick_pulldown_summary_left">gauche</string>
     <string name="quick_pulldown_summary_right">droit</string>
     <string name="quick_pulldown_off">Désactiver</string>
